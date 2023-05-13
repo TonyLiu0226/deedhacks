@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pyresparser
+requests
+resume-parser
+openai
+spacy
+python-dotenv
+python-multipart
+aiofiles
